@@ -1,4 +1,4 @@
-//console.log('this line is test for git');
+//console.log('this line is test for git again');
 (function () {
     var claudio = function (selector) {
         return new claudio.fn.init(selector);
