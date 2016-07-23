@@ -1,4 +1,5 @@
 //console.log('this line is test for git');
+//测试远程合并
 (function () {
     var claudio = function (selector) {
         return new claudio.fn.init(selector);
